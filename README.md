@@ -377,13 +377,16 @@ We can also now find the CLIENT1 VM as a Computer within Active Directory Users 
 <br />
 Now back on our CLIENT1 Windows 10 VM, we can select Other user on the login screen. We can now login to this Other User account with login credentials that we generated with our PS script. <br />
 <img width="900" height="900" alt="Windows 10 login as a different user into MYDOMAIN than the local user for CLIENT1 Windows 10 VM" src="https://github.com/JABethea/ActiveDirectoryLab/assets/68124261/2b9c0d21-db99-4c63-b6ed-4bfaeddee6a7">
+<br />
+<br />
 We have now successfully logged into our domain as a user account that we generated through our PS script and can now operate as a user on this seperate VM. <br />
 <img width="900" height="450" alt="Windows 10 VM CLIENT1 Successfully accessed mydomain com as jbethea user" src="https://github.com/JABethea/ActiveDirectoryLab/assets/68124261/911d2ff3-9f94-4b06-ba5b-da8f4f0ae2ad">
 <br />
 <br />
-### Sources
-Josh Madakor's tutorial is where I sourced this Lab Project from. I also use his Powershell Script.
-https://www.youtube.com/watch?v=MHsI8hJmggI
+
+### Sources <br /> 
+Josh Madakor's tutorial is where I sourced this Lab Project from. I also use his Powershell Script. <br />
+https://www.youtube.com/watch?v=MHsI8hJmggI <br />
 </p>
 
 <!--
